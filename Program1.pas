@@ -1,4 +1,4 @@
-﻿program zadanie1;
+
 
 uses System;
 
